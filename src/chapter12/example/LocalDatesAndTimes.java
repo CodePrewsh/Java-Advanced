@@ -1,13 +1,12 @@
-package chapter12.Practise.Practise1;
+package chapter12.example;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
+import static java.time.Month.*;  // Months
+import static java.time.DayOfWeek.*; // Days of the week
+import static java.time.temporal.ChronoUnit.*;  // DAYS, HOURS, etc
 import java.time.temporal.TemporalAdjusters;
-
-import static java.time.DayOfWeek.*;
-import static java.time.Month.*;
-import static java.time.temporal.ChronoUnit.*;
 
 public class LocalDatesAndTimes {
 

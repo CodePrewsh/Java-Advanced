@@ -1,4 +1,4 @@
-package chapter12.Practise.Practise3;
+package chapter12.example;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -45,5 +45,3 @@ public class TimeBetween {
             + days + " days between now and the date entered.");
   }
 }
-
-

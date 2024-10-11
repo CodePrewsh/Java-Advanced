@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1788b1d2-b685-4bc0-be85-063cf43131e9" name="Changes" comment="" />
+    <list default="true" id="1788b1d2-b685-4bc0-be85-063cf43131e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 18/Chapter 18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/Practise/Practise1/LocalDatesAndTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12/Practise/Practise3/TimeBetween.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/practice1/practice53.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter14/practice2/practice67.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/practice1/practice35.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter15/practice2/practice17.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +30,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mT2wLMvPjAoxFUreCXL7MdX9xk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,14 +41,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DepartArrive.executor": "Run",
+    "Application.LocalDatesAndTimes.executor": "Run",
+    "Application.SimpleJDBCExample.executor": "Run",
+    "Application.TimeBetween.executor": "Run",
+    "Application.ZonedDateTimeExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Java Advanced/myWork/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Java Advanced/myWork/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Java Advanced/myWork/Chapter 18/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java Advanced\myWork\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter12.Practise.Practise3" />
+      <recent name="chapter12.Practise.Practise2" />
+      <recent name="chapter12.Practise.Practise1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -45,7 +87,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727086485511</updated>
-      <workItem from="1727086486480" duration="3000" />
+      <workItem from="1727086486480" duration="2252000" />
+      <workItem from="1727975534776" duration="4355000" />
+      <workItem from="1728090968856" duration="665000" />
+      <workItem from="1728372800880" duration="2312000" />
+      <workItem from="1728459964621" duration="1212000" />
+      <workItem from="1728546008918" duration="1613000" />
+      <workItem from="1728624351717" duration="1144000" />
+      <workItem from="1728633853915" duration="1315000" />
     </task>
     <servers />
   </component>
@@ -60,7 +109,16 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Chapter 18/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
